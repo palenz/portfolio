@@ -1,11 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
+import mainContainer from './containers/mainContainer';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+
 
 function App() {
+
+
   return (
-  <>
-  <h1>Hi test</h1>
-  </>
+    <Router>
+    <>
+    <Route path="/" component={mainContainer} />
+    {/* <Route path="/about " */}
+    </>
+    </Router>
   );
 }
 
