@@ -21,7 +21,7 @@ p{
     line-height: 2rem;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 1000px) {
   
     #content {
       padding-top: 2rem;
@@ -30,6 +30,16 @@ p{
   }
 }
 
+.heading{
+    padding-bottom: 2rem;
+    margin: auto;
+    padding-top: 5rem;
+}
+
 .separator{
-    background-color: aquamarine;
+    border: 0.4rem solid #F5E36D;
+    width: 3rem;
+    position: absolute;
+    align-items: left;
+    margin-top: -0.8rem;
 }
