@@ -1,4 +1,7 @@
 import Typewriter from 'typewriter-effect';
+import ReactDOM from 'react-dom'
+import AnchorLink from 'react-anchor-link-smooth-scroll'
+// import smoothscroll from 'smoothscroll-polyfill';
 import './mainContainer.css';
 import Menu from '../components/menu'
 import About from '../components/about'
@@ -37,18 +40,21 @@ function mainContainer() {
     </div>
     <About></About>
 
+    <section id='skills'/>
     <div class="heading">
     <h2>Skills</h2>
     <hr class="separator"></hr>
     </div>
     <Skills></Skills>
 
+    <section id='projects'/>
     <div class="heading">
     <h2>Projects</h2>
     <hr class="separator"></hr>
     </div>
     <Projects></Projects>
 
+    <section id='contact'/>
     <div class="heading">
     <h2>Contact</h2>
     <hr class="separator"></hr>
