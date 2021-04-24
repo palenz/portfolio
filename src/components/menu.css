@@ -21,7 +21,7 @@
     justify-content: space-around;
 }
 
-ul { 
+#menu-list { 
     list-style: none; 
     margin-right: 0rem;
     text-align: center;
@@ -33,7 +33,7 @@ ul {
       }
   }
 
-li { 
+  #menu-item { 
     display: table-cell; 
     position: relative; 
     font-family: system-ui, sans-serif;
@@ -44,7 +44,7 @@ li {
     padding: 1.5rem;
   }
 
-li:after {    
+  #menu-item:after {    
     background: none repeat scroll 0 0 transparent;
     bottom: 0;
     content: "";
@@ -57,7 +57,7 @@ li:after {
     width: 0;
   }
   
-li:hover:after { 
+  #menu-item:hover:after { 
     width: 100%; 
     left: 0; 
   }

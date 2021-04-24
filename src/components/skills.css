@@ -1,4 +1,5 @@
-button{
+#cv{
+    margin-top: 3rem;
     display: inline-block;
     height: 50px;
     width: 16rem;
@@ -15,20 +16,33 @@ button{
     border: 1px solid #000;
     background-image: url('./pdf2x.png');
     background-color: #F6F9FC;
+    font-family: system-ui, sans-serif;
+    font-size: medium;
+    font-weight: 250;
 }
 
-button:hover{
+#cv:hover{
     transition: 0.7s;
     background-color: #d9e4f0;
     border: 1px solid #F6F9FC;
     box-sizing: border-box
 }
 
-button.active.focus, button.active:focus,
-button.focus, button:active.focus, 
-button:active:focus, button:focus {
+#cv.active.focus, #cv.active:focus,
+#cv.focus, #cv:active.focus, 
+#cv:active:focus, #cv:focus {
   outline: none;
   box-shadow: none;
+}
+
+#skills {
+    -moz-column-count: 2;
+    -moz-column-gap: 9rem;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 9rem;
+    column-count: 2;
+    column-gap: 9rem;
+    line-height: 2.5rem;
 }
     
     

@@ -31,9 +31,9 @@ p{
 }
 
 .heading{
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
     margin: auto;
-    padding-top: 5rem;
+    padding-top: 6rem;
 }
 
 .separator{
@@ -42,4 +42,30 @@ p{
     position: absolute;
     align-items: left;
     margin-top: -0.8rem;
+}
+
+footer{
+    text-align: center;
+    padding: 3rem;
+    margin-top: 12rem;
+    font-family: system-ui, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+#contact{
+    font-weight: 320;
+    font-size: 22px;
+    letter-spacing: .5px;
+    
+}
+
+#email{
+    color: black;
+    text-decoration: underline;
+}
+
+#email:hover{
+    text-decoration: none;
 }

@@ -6,10 +6,10 @@ const Menu = () => {
 
         <div id='menu-wrap'>
             <nav id="navbar">
-                <ul>
-                    <li>About</li>
-                    <li>Projects</li>
-                    <li>Contact</li>
+                <ul id='menu-list'>
+                    <li id='menu-item'>About</li>
+                    <li id='menu-item'>Projects</li>
+                    <li id='menu-item'>Contact</li>
                 </ul>
             </nav>
 
