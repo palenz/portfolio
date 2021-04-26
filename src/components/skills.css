@@ -44,5 +44,19 @@
     column-gap: 9rem;
     line-height: 2.5rem;
 }
+
+@media only screen and (max-width: 1000px){
+    #skills{
+        column-count: 1;
+    }
+
+    #skills > li {
+        margin-bottom: 1rem;
+        line-height: 2rem;
+    }
+
+
+
+}
     
     
