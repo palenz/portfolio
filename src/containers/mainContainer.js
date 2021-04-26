@@ -31,7 +31,7 @@ function mainContainer() {
     </h1>
     </div>
     
-    <p>Full stack software engineer based in Edinburgh, Scotland. Passionate about beautiful, impactful user experiences. Have a look at my projects below.
+    <p>Full stack software engineer based in Edinburgh, Scotland.
     </p>
 
     <div class="heading">

@@ -16,11 +16,15 @@ h2 {
   font-weight: 300;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 1000px) {
   h1{
     font-size: 3rem;
   }
 
+}
+
+hr{
+  background-color: #F5E36C;
 }
 
 
