@@ -114,7 +114,7 @@ const Projects = () => {
     </div>
 
 <div class='action-buttons'>
-    <a href='https://github.com/palenz/payme' target="_blank"><div class='source-button'>View source</div></a>
+    <a href='https://github.com/palenz/portfolio' target="_blank"><div class='source-button'>View source</div></a>
 </div>
 
 </div>
