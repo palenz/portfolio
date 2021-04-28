@@ -1,7 +1,4 @@
 import Typewriter from 'typewriter-effect';
-import ReactDOM from 'react-dom'
-import AnchorLink from 'react-anchor-link-smooth-scroll'
-// import smoothscroll from 'smoothscroll-polyfill';
 import './mainContainer.css';
 import Menu from '../components/menu'
 import About from '../components/about'

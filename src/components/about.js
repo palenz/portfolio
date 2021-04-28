@@ -10,7 +10,7 @@ const About = () => {
         After a one-year stint as an associate at a consultancy, I realised that I wanted to be more directly involved in solving problems and creating products. I wanted a career that was technically challenging.
         </p>
         <p>
-        I began by learning python in my spare time, and I quickly became enamored with software development. I am fascinated with the fact that you can create powerful tools with very little – you just need a computer. I also love the permissionless leverage that coding gives you.
+        I began by learning Python in my spare time and I quickly became enamored with software development. I am fascinated with the fact that you can create powerful tools with very little – you just need a computer. I also love the permissionless leverage that coding gives you.
         </p>
         </div>
 
