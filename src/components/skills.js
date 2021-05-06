@@ -17,7 +17,7 @@ const Skills = () => {
             <li>Familiar with agile and scrum</li>
         </ul>
 
-        <a href= './JuanPalenzuela_CV.pdf' target="_blank">
+        <a href= './JP_CV.pdf' target="_blank">
         <button id='cv'>Résumé</button>
         </a>
 
